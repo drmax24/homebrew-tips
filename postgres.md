@@ -8,6 +8,7 @@ Health check
 ```
 brew services list  
 psql --version
+ps auxwww | grep postgres
 ```
 
 SQL
